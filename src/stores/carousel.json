@@ -1,0 +1,69 @@
+[
+  {
+    "title": "SSS",
+    "full_price": "468,00",
+    "monthly_price": "13,00",
+    "subtitle": "Attēla kvalitāte: Picture Quality Index: 1300 Izšķirtspēja: 3840 x 2160 Ekrāna izmērs (collas): 40\"  Ekrāna izmērs (cm): 102 cm Ekrāna tehnoloģija: LED",
+    "image_url": "https://www.lattelecomveikals.lv/i/product_image/products/samsung-ue40mu6172uxxh.png",
+    "button": [
+      {
+        "title": "Nupp1",
+        "url": "https://www.lattelecomveikals.lv/samsung-ue40mu6172uxxh.html?utm_source=chatbot"
+      },
+      {
+        "title": "Nupp2",
+        "payload": "menu"
+      }
+    ]
+  },
+  {
+    "title": "Televizors Hisense H43N5300",
+    "subtitle": "Attēla kvalitāte: Picture Criteria Index: 1100 Izšķirtspēja: 3840 x 2160 Ekrāna izmērs (collas): 43\"  Ekrāna izmērs (cm): 108 cm Ekrāna tehnoloģija: LED",
+    "image_url": "https://www.lattelecomveikals.lv/i/product_image/products/hisense-h43n5300.png",
+    "button": [
+      {
+        "title": "Nupp1",
+        "url": "https://www.lattelecomveikals.lv/hisense-h43n5300.html?utm_source=chatbot"
+      },
+      {
+        "title": "Nupp2",
+        "payload": "menu"
+      }
+    ]
+  },
+  {
+    "title": "Televizors PHILIPS 43PUS6201/12",
+    "full_price": "504,00",
+    "monthly_price": "14,00",
+    "subtitle": "Attēla kvalitāte: Picture Performance Index 800 Izšķirtspēja: 3840 x 2160 Ekrāna izmērs (collas): 43\" Ekrāna izmērs (cm): 123 cm Ekrāna tehnoloģija: LED",
+    "image_url": "https://www.lattelecomveikals.lv/i/product_image/products/philips-43pus6201.png",
+    "button": [
+      {
+        "title": "Nupp1",
+        "url": "https://www.lattelecomveikals.lv/philips-43pus6201-12.html?utm_source=chatbot"
+      },
+      {
+        "title": "Nupp2",
+        "payload": "menu"
+      }
+    ]
+  },
+  {
+    "title": "Televizors SAMSUNG",
+    "full_price": "468,00",
+    "monthly_price": "13,00",
+    "subtitle": "Attēla kvalitāte: Picture Quality Index: 1300 Izšķirtspēja: 3840 x 2160 Ekrāna izmērs (collas): 40\"  Ekrāna izmērs (cm): 102 cm Ekrāna tehnoloģija: LED",
+    "image_url": "https://www.lattelecomveikals.lv/i/product_image/products/samsung-ue40mu6172uxxh.png",
+    "button": [
+      {
+        "title": "Nupp1",
+        "url": "https://www.lattelecomveikals.lv/samsung-ue40mu6172uxxh.html?utm_source=chatbot"
+      },
+      {
+        "title": "Nupp2",
+        "payload": "menu"
+      }
+    ]
+  }
+]
+
